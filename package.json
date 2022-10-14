@@ -1,5 +1,5 @@
 {
-  "name": "backblaze-b2",
+  "name": "@magicpig55/backblaze-b2",
   "version": "1.7.0",
   "description": "Node.js Library for the Backblaze B2 Storage Service",
   "main": "index.js",
@@ -23,7 +23,7 @@
   "types": "index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yakovkhalinsky/backblaze-b2.git"
+    "url": "https://github.com/Magicpig55/backblaze-b2.git"
   },
   "bugs": {
     "url": "https://github.com/yakovkhalinsky/backblaze-b2/issues"
