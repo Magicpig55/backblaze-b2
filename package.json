@@ -20,6 +20,7 @@
     "name": "Yakov Khalinsky",
     "email": "yakov@therocketsurgeon.com"
   },
+  "types": "index.d.ts",
   "repository": {
     "type": "git",
     "url": "https://github.com/yakovkhalinsky/backblaze-b2.git"
